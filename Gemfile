@@ -30,6 +30,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'carrierwave'
 gem 'fog'
 gem 'mini_magick'
+gem 'figaro'
 
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
